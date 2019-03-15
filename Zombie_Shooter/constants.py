@@ -1,0 +1,21 @@
+"""
+Constants for Zombie Game.
+"""
+# Colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+BLUE = (4, 160, 204)
+TAN = ( 209, 197, 123)
+DGREEN = (61, 186, 121)
+BROWN = (135, 106, 39)
+RED = (204, 55, 30)
+LGREEN = (70, 244, 66)
+GREEN = (0,200,0)
+BRED = (255,0,0)
+BGREEN = (0,255,0)
+BLCO = (53,115,255)
+YELLOW = (255,255,0)
+# Screen Size
+
+SCREEN_WIDTH = 1000
+SCREEN_LENGTH = 700
