@@ -1,5 +1,5 @@
 ################################################################################
-# Group: Jordan Petersen, Steven Lasselle, John Lambert
+# Group: Steven Lassalle and Jordan Petersen
 # April 27th, 2018
 # Advance Programming Workshop
 # Final Project: Zombie Survival
